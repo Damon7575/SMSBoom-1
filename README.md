@@ -193,5 +193,5 @@ pipenv run python flask_app/app.py
 
 欢迎加入企鹅群提出问题和建议！！！
 
-![企鹅群 QR](https://cdn.jsdelivr.net/gh/AdminWhaleFall/Pic@master/img/20220409151539.jpg)
+![企鹅群 QR](###https://cdn.jsdelivr.net/gh/AdminWhaleFall/Pic@master/img/20220409151539.jpg)
 
